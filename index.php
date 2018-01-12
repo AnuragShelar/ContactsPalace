@@ -155,3 +155,4 @@ $(document).ready(function(){
          </html>
 
 <button>hi</button>
+<panel>hi</panel>
